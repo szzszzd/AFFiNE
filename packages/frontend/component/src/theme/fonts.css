@@ -8,6 +8,14 @@
   font-weight: 1 999;
 }
 
+@font-face {
+  font-family: 'Muyao';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/muyao/Muyao.ttf);
+}
+
 /*
  * Source Code Pro (Variable)
  */
@@ -33,23 +41,21 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(../fonts/kalam/Kalam-Regular.ttf);
+  src: url(../fonts/muyao/Muyao.ttf);
 }
-
 @font-face {
   font-family: 'Kalam';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(../fonts/kalam/Kalam-Light.ttf);
+  src: url(../fonts/muyao/Muyao.ttf);
 }
-
 @font-face {
   font-family: 'Kalam';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(../fonts/kalam/Kalam-Bold.ttf);
+  src: url(../fonts/muyao/Muyao.ttf);
 }
 
 /*
